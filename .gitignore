@@ -1,4 +1,4 @@
 /terraform.tfstate
 /.terraform.lock.hcl
 /.terrafor.tfstate.backup
-*.exe
+terraform-provider-azurerm_v3.95.0_x5.exe
